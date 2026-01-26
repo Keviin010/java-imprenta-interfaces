@@ -24,7 +24,7 @@ Diseñar una solución orientada a objetos que permita modelar el proceso de imp
 - Programación Orientada a Objetos
 
 ## Contexto
-Este proyecto forma parte del proceso de aprendizaje de Java y está enfocado en fortalecer los fundamentos de diseño orientado a objetos necesarios para el desarrollo de aplicaciones backend más complejas.
+Este proyecto forma parte del proceso de aprendizaje de Java y está enfocado en fortalecer los fundamentos de diseño orientado a objetos necesarios, para el desarrollo de aplicaciones backend más complejas.
 
 ## Posibles mejoras
 - Incorporar persistencia de datos
